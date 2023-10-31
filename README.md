@@ -11,4 +11,6 @@
 | :rocket: URL         | 
 | :fire: Desafio     |
 
+![capa](https://github.com/fab-souza/testes-estatisticos-com-python/assets/67301805/86dfb1ca-d128-4ffe-87b0-6fe24ecdc3ad)
+
 O que aprendi no 9º curso da formação Data Science, da Alura
