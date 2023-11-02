@@ -8,7 +8,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Data Science: testes estatísticos com Python**
 | :label: Tecnologias | python
-| :rocket: URL         | 
+| :rocket: URL         | Conteúdo do [curso](https://www.alura.com.br/curso-online-data-science-introducao-a-testes-estatisticos-com-python)
 | :fire: Desafio     |
 
 ![](https://github.com/fab-souza/testes-estatisticos-com-python/assets/67301805/86dfb1ca-d128-4ffe-87b0-6fe24ecdc3ad)
