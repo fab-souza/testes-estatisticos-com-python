@@ -14,3 +14,5 @@
 ![](https://github.com/fab-souza/testes-estatisticos-com-python/assets/67301805/86dfb1ca-d128-4ffe-87b0-6fe24ecdc3ad)
 
 # Sobre o curso 📚
+
+Após aprender sobre análise e visualização, da formação [Data Science](https://www.alura.com.br/formacao-data-science), oferecido pela [Alura](https://www.alura.com.br/), entramos na parte de testes estatísticos.
