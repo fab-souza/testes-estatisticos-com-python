@@ -15,7 +15,7 @@
 
 # Sobre o curso 📚
 
-Após aprender sobre análise e visualização, da formação [Data Science](https://www.alura.com.br/formacao-data-science), oferecido pela [Alura](https://www.alura.com.br/), entramos na parte de testes estatísticos.
+Após aprender sobre análise e visualização, da formação [Data Science](https://www.alura.com.br/formacao-data-science), oferecido pela [Alura](https://www.alura.com.br/), entramos na parte de testes estatísticos. Pois, as análises e visualizações nem sempre são suficientes para assegurar a relevância estatística das conclusões.
 
 
 # Minha prática 👩🏻‍💻
