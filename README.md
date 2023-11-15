@@ -29,6 +29,7 @@ Respostas formais: Por fim, aprendemos a responder perguntas de maneira formal, 
 
 # Minha prática 👩🏻‍💻
 
+Para praticar o que aprendi, utilizei dois datasets, ambos disponíveis no [Kaggle](https://www.kaggle.com).
 
 # Conclusão 🏁
 
