@@ -25,7 +25,7 @@ Após aprender sobre análise e visualização, da formação [Data Science](htt
 - Uso do Python: O curso também nos ensina a usar Python, uma das linguagens de programação mais populares do mundo, para executar testes estatísticos. Isso nos dá uma habilidade prática que é altamente valorizada no mercado de trabalho.
 Respostas formais: Por fim, aprendemos a responder perguntas de maneira formal, não apenas exploratória. Isso nos ajuda a comunicar nossas descobertas de maneira clara e convincente.
 
-
+Ao longo do curso, usamos dados do [MovieLens](https://grouplens.org/datasets/movielens/) e [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 # Minha prática 👩🏻‍💻
 
