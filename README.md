@@ -41,3 +41,5 @@ Para praticar o que aprendi, utilizei dois datasets, ambos disponíveis no [Kagg
 # Conclusão 🏁
 
 ---
+
+## Ferramentas utilizadas 🧰
