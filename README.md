@@ -36,7 +36,8 @@ e [TMDB 5000](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 # Minha prática 👩🏻‍💻
 
-Para praticar o que aprendi, utilizei dois datasets, ambos disponíveis no [Kaggle](https://www.kaggle.com).
+
+
 
 # Conclusão 🏁
 
